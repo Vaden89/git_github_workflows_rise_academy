@@ -2,71 +2,71 @@
   {
     "title": "Baby Driver",
     "releaseYear": 2017,
-    "genre": "Action / Crime",
+    "genre": "Crime",
     "description": "A talented getaway driver relies on music to stay focused while working for dangerous criminals.",
-    "image": "https://via.placeholder.com/300x450?text=Baby+Driver"
+    "image": "https://dummyjson.com/image/400x200?text=Baby+Driver"
   },
   {
     "title": "Ready Player One",
     "releaseYear": 2018,
-    "genre": "Science Fiction / Adventure",
+    "genre": "Adventure",
     "description": "A teenager enters a massive virtual reality world to compete for control of its creator’s fortune.",
-    "image": "https://via.placeholder.com/300x450?text=Ready+Player+One"
+    "image": "https://dummyjson.com/image/400x200?text=Ready+Player+One"
   },
   {
     "title": "Big Hero 6",
     "releaseYear": 2014,
-    "genre": "Animation / Action",
+    "genre": "Animation",
     "description": "A young robotics prodigy teams up with a lovable robot and friends to stop a mysterious villain.",
-    "image": "https://via.placeholder.com/300x450?text=Big+Hero+6"
+    "image": "https://dummyjson.com/image/400x200?text=Big+Hero+6"
   },
   {
     "title": "Interstellar",
     "releaseYear": 2014,
-    "genre": "Science Fiction / Drama",
+    "genre": "Drama",
     "description": "A group of astronauts travel through a wormhole in search of a new home for humanity.",
-    "image": "https://via.placeholder.com/300x450?text=Interstellar"
+    "image": "https://dummyjson.com/image/400x200?text=Interstellar"
   },
   {
     "title": "A Quiet Place",
     "releaseYear": 2018,
-    "genre": "Horror / Thriller",
+    "genre": "Horror",
     "description": "A family must live in silence to survive in a world hunted by sound-sensitive creatures.",
-    "image": "https://via.placeholder.com/300x450?text=A+Quiet+Place"
+    "image": "https://dummyjson.com/image/400x200?text=A+Quiet+Place"
   },
   {
     "title": "Avengers: Endgame",
     "releaseYear": 2019,
-    "genre": "Action / Superhero",
+    "genre": "Action",
     "description": "The Avengers assemble one final time to undo the devastation caused by Thanos.",
-    "image": "https://via.placeholder.com/300x450?text=Avengers+Endgame"
+    "image": "https://dummyjson.com/image/400x200?text=Avengers+Endgame"
   },
   {
     "title": "Avengers: Infinity War",
     "releaseYear": 2018,
-    "genre": "Action / Superhero",
+    "genre": "Action",
     "description": "The Avengers and their allies attempt to stop Thanos from collecting all six Infinity Stones.",
-    "image": "https://via.placeholder.com/300x450?text=Infinity+War"
+    "image": "https://dummyjson.com/image/400x200?text=Infinity+War"
   },
   {
     "title": "Spider-Man: No Way Home",
     "releaseYear": 2021,
-    "genre": "Action / Superhero",
+    "genre": "Action",
     "description": "Spider-Man faces the consequences of his identity being revealed across the multiverse.",
-    "image": "https://via.placeholder.com/300x450?text=No+Way+Home"
+    "image": "https://dummyjson.com/image/400x200?text=No+Way+Home"
   },
   {
     "title": "TRON: Legacy",
     "releaseYear": 2010,
-    "genre": "Science Fiction / Action",
+    "genre": "Action",
     "description": "A young man is pulled into a digital world where his father has been trapped for decades.",
-    "image": "https://via.placeholder.com/300x450?text=TRON+Legacy"
+    "image": "https://dummyjson.com/image/400x200?text=TRON+Legacy"
   },
   {
     "title": "Inside Out",
     "releaseYear": 2015,
-    "genre": "Animation / Family",
+    "genre": "Animation",
     "description": "A young girl’s emotions come to life as they help her navigate a major life change.",
-    "image": "https://via.placeholder.com/300x450?text=Inside+Out"
+    "image": "https://dummyjson.com/image/400x200?text=Inside+Out"
   }
 ]
