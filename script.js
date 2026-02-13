@@ -31,6 +31,8 @@ function loadMovies(genre) {
         `;
         moviesContainer.append(movieCard);
       });
+      if (moviesContainer.childElementCount <= 0)
+        moviesContainer.innerHTML = `<p style='color: red'>There are no movies under the ${genre} genre</p>`;
     })
     .catch((error) => {
       moviesContainer.innerHTML =
